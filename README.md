@@ -1,2 +1,2 @@
 # Remotes-practice
-Git commands practice
+Practise using remotes
